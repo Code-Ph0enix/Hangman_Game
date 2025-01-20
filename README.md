@@ -15,6 +15,4 @@ A hangman game written in Dart with Flutter framework. Player has 5 lives in eac
 
 App screenshots created with <a href="https://previewed.app/">Previewed</a>
 
-## License
 
-Released under MIT License. See [LICENSE](LICENSE) for more info.
